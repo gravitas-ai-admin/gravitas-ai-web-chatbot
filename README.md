@@ -63,5 +63,5 @@ Tina enhances customer relationship management by automating workflows and offer
 ---
 
 ## Demo Preview  
-<img src="https://documents.gravitasai.in/gravitas_ai_web_chatbot.gif" width="300"/>
+<img src="gravitas_ai_web_chatbot.gif" />
 
