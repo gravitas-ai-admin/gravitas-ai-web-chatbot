@@ -1,4 +1,4 @@
-# Tina - Intelligent Web-Based Chatbot  
+# Tina - Ai Web-Based Chatbot  
 
 **Tina** is a versatile and intelligent web-based chatbot designed to enhance user experiences across various sectors. Tina provides instant support, automates repetitive tasks, and delivers personalized assistance, making her an invaluable tool in **healthcare**, **education**, **e-commerce**, and **CRM** industries.
 
